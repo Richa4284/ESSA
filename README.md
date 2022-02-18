@@ -6,7 +6,7 @@ Django application to perform CRUD operations
 ## Run It
 * Clone the project:
 ```
-$ git clone https://github.com/FahadulShadhin/crudapp.git
+$ git clone https://github.com/Richa4284/ESSA.git
 ```
 
 * Install required packages:
